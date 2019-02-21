@@ -20,5 +20,5 @@ For each task in the project, write a short description mentioning what to do in
  
  
 
-This is the [link](https://github.com/commit-live-students/content_creator/tree/master/linear_regression_assessment/notebooks) to the sample project notebook.  
+This is the [link](https://github.com/commit-live-students/content_creator/blob/master/linear_regression_assessment/notebook/linear_lego_sample_notebook.ipynb) to the sample project notebook.  
 
