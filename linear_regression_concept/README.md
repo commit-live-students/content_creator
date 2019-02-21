@@ -6,3 +6,5 @@ Folder `notebooks` contains the following:
   - Linear regression notebook (linear_regression.ipynb)
 
   - Corresponding sample notebook for linear regression (linear_regression_sample_notebook.ipynb) 
+
+  - Sample quiz for linear regression (Linear Regression Quiz.ipynb)
