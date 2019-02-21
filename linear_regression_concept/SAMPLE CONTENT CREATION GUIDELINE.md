@@ -1,4 +1,4 @@
-# SAMPLE CONTENT CREATION GUIDELINE 
+﻿# SAMPLE CONTENT CREATION GUIDELINE 
 
 
 We will be taking the example of the concept “LINEAR REGRESSION” to demonstrate what parameters we will be evaluating the sample content. Ideally your sample content should follow the following pointers so that the team can evaluate its fitness for consumption:
@@ -14,4 +14,4 @@ _CODE SNIPPETS:_ Python code must be there both as learning tasks and during exp
 _MATHEMATICS (optional):_ This is not a compulsory component as we do not expect you to make a sample chapter where there is mathematics involved. However, we do recommend you taking up one such chapter as it will help solidify your capability to onboard things mathematically. For ex: “How to determine the coefficients of the best fit line with the OLS method?” If you are discussing algorithms , make sure to incorporate its pseudocode.
    
 
-This is the [link](https://github.com/commit-live-students/content_creator/tree/master/linear_regression_concept) to the sample content.  
+This is the [link](https://github.com/commit-live-students/content_creator/tree/master/linear_regression_concept/notebooks) to the sample content.  

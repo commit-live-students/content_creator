@@ -1,4 +1,4 @@
-# SAMPLE PROJECT CREATION GUIDELINE 
+﻿# SAMPLE PROJECT CREATION GUIDELINE 
 
 
 We will be taking the example of the project  “LEGO COLLECTOR’S DILEMMA(LINEAR REGRESSION)” to demonstrate what parameters we will be evaluating in the sample project. Ideally your sample project should follow the following pointers so that the team can evaluate its fitness for consumption:
@@ -20,5 +20,5 @@ For each task in the project, write a short description mentioning what to do in
  
  
 
-This is the [link](https://github.com/commit-live-students/content_creator/tree/master/linear_regression_assessment/) to the sample project notebook.  
+This is the [link](https://github.com/commit-live-students/content_creator/tree/master/linear_regression_assessment/notebooks) to the sample project notebook.  
 
