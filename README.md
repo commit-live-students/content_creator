@@ -1,17 +1,14 @@
-# Content Tree for the concept of Linear Regression
+# Content Creator Resources
 
-**Why Linear Regression?**
-- Introduction to the problem statement
-- Need for linear regression
-- Assumptions of linear regression
-	
-	
-**Ordinary Least Squares**
-- Mathematics of OLS
-- Discrete example to understand OLS
-	
-**Implementing Linear Regression using sklearn**
-- Model building with scikit-learn
-- Mean absolute error
-- Evaluate model with RMSE
-- R squared
+Following are the folders in the repo
+
+- concept-template : This contains the template notebook that content creators must use to submit the sample notebook for a concept
+
+- linear_regression_project: This contains a sample project for reference to give an idea of how the project would look like
+
+- linear_regression_concept: This contains a sample concept for reference to give an idea of how the concept would look like
+
+- project-template : This contains the template notebook that content creators must use to submit the sample notebook for a project
+
+
+Follow the guidelines that are present in the corresponding template folders to submit the content in the ideal form for evaluation.
