@@ -14,7 +14,7 @@ _CODE SNIPPETS:_ Python code must be there both as learning tasks and during exp
 _MATHEMATICS (optional):_ This is not a compulsory component as we do not expect you to make a sample chapter where there is mathematics involved. However, we do recommend you taking up one such chapter as it will help solidify your capability to onboard things mathematically. For ex: “How to determine the coefficients of the best fit line with the OLS method?” If you are discussing algorithms , make sure to incorporate its pseudocode.
    
 
-This is the [link](https://github.com/commit-live-students/content_creator/blob/master/linear_regression_concept/notebooks/linear_regression_sample_notebook.ipynb) to the sample content.  
+This is the [link](https://github.com/commit-live-students/content_creator/blob/master/linear_regression_concept_sample/notebooks/linear_regression_sample_notebook.ipynb) to the sample content.  
 
 
 Follow the folder structure to make the sample concept. The 3 folders are 
