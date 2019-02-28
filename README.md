@@ -8,6 +8,7 @@ At GreyAtom, we believe in a learn by doing approach.We have gained great insigh
 ## Building Sample Content for GreyAtom
 
 During course design process, you will be required to build one or more chapters of a concept. For Eg - If the concept is Linear Regression, we would like you to build - 
+
 	* Onboarding a problem statement that can be solved using Linear Regression
 	* OLS
 	* A coding task to internalize OLS
