@@ -1,28 +1,29 @@
-# Content Creator Resources
-
-- greyatom_template : This contains the template notebook for concept and project that content creators must use to submit the sample.
-
-	- concept_template : Please use this template to build your sample concept notebooks
-
-	- project_template : Please use this template to build your sample project notebooks
+Before we begin content development, we'd like to take the time to introduce you to our process to ensure that your GreyAtom experience and your content are as successful and enjoyable as possible.
 
 
-- greyatom_reference_notebooks : This contains the sample notebook for concept and project that content creators must refer to get an idea of how should they build their sample notebooks
+# GreyAtom Introduction
 
-	- linear_regression_concept_reference : Please refer this to get an idea of how an ideal concept sample should look like
+At GreyAtom, we believe in a learn by doing approach.We have gained great insights into how people learn best and we are now using these insights to move towards an online learning model that delivers the holy trinity of Quality, Scale and Personalization in education.
 
-	- linear_regression_project_reference : Please refer this to get an idea of how an ideal project sample should look like
+## Building Sample Content for GreyAtom
 
+During course design process, you will be required to build one or more chapters of a concept. For Eg - If the concept is Linear Regression, we would like you to build - 
+	- Onboarding a problem statement that can be solved using Linear Regression
+	- OLS
+	- A coding task to internalize OLS
 
-- greyatom_actual_content_notebooks : This contains greyatom's actual content to give you a complete understanding of all the deliverables in a concept - content tree, projects, concept notebook and quiz.
-
-	- content_tree.md : Content outline mentioning the topics that are covered
-
-	- linear_regression_actual_concept[Folder] : This contains the entire concept for reference to give an idea of how an end to end concept would look like
-
-	- linear_regression_actual_assessment[Folder] : This contains the entire project for reference to give an idea of how an end to end project would look like
-
-	- linear_regression_quiz.ipynb : Quiz on linear regression topic
+We have 2 main deliverables to be submitted as a Sample. Based on your interest and discussion with GreyAtom team , you will be submitting either of these.
 
 
-Follow the guidelines that are present in the corresponding template folders to submit the content in the ideal form for evaluation.
+1. Learning Content - Here we explain the main concept and its subtopics very intuitively, always building intuition of learner first, before onboarding any code/Math. This is done by bringing to life real examples and asking a lot of questions to learner. As you move along, keep throwing small coding tasks to the learner that can help them internalize what they have read and understood so far. Coding tasks should have detailed instructions.
+
+Reference Learning Content - Look at this notebook and get inspired on how your final submission could look like. Of course, we are not asking you to build  this end to end, but just a few topics
+Sample Submission Guidelines - We are sharing with you our secret sauce, on techniques we have used to make engaging content
+Sample Content Template - Use this template and submit your sample content
+
+2. Project - These are Kaggle style problem statements and datasets and we take learners through a guided appproach to solve these by dividing a large problem statement into smaller tasks with instructions
+
+Reference Project -> Look at this notebook, and get inspired on how your project could look like, what kind of datasets to use.
+Sample Project Submission Guidelines - We are sharing with you our secret sauce, on techniques we have used to make engaging project
+Sample Project Template -Use this template and submit your sample project to GreyAtom
+	
